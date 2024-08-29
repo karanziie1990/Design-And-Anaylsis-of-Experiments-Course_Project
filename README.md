@@ -118,6 +118,3 @@ This project provides insights into how different laptop settings impact battery
    ```
 
 4. Run the script to reproduce the analysis and view results.
-```
-
-You can copy and paste this into a `README.md` file for your GitHub repository.
