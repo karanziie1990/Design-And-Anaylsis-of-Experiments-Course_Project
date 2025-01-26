@@ -1,6 +1,6 @@
-# Laptop Battery Life Analysis
+# Inferential Statistics
 
-## Project Overview
+## Laptop Battery Life Analysis - Project Overview
 
 This project aims to analyze various factors affecting the battery life of a laptop. The factors under investigation include refresh rate, brightness level, resolution, and speaker volume. The analysis leverages statistical methods to determine the impact of these factors on battery life.
 
