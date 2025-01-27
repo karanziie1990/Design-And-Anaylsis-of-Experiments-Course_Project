@@ -98,7 +98,7 @@ This project provides insights into how different laptop settings impact battery
 
 ## Repository Contents
 
-- `project.R`: R script with the data analysis and plotting code.
+- `DAE PROJECT.R`: R script with the data analysis and plotting code.
 - `README.md`: This file describing the project.
 
 ## Getting Started
